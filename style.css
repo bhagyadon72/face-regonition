@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(238, 255, 0) ;
+}
+ 
+b{
+    color:rgb(143, 6, 6);
+    font-size :27px;
+}
+hr{
+    background-color: royalblue;
+    height:6px;
+    width:180px;
+}
+#camera {
+    width:350px;
+    height:300px;
+}
